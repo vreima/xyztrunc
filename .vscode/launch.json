@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "args": ["C:\\Users\\vireima\\hotmail\\OneDrive\\01docs\\vyötiäinen\\01 Lähtötiedot\\02 Suunnittelun lähtötiedot\\02 Vantaa\\maanpinnan_pistepilvi.xyz", "-t", "1000", "1000", "1000"]
+        }
+    ]
+}
